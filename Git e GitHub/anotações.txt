@@ -1,0 +1,9 @@
+listar     dir
+navegue entre as pastras    cd / 
+retroceder um nivel na navegação     cd ..
+limpar o terminal      ctrl l
+auto completar     TAB
+criar uma pasta      mkdir 
+deletar arquivos     del
+remover repositorio      rmdir
+mostra pasta oculta      ls -a
